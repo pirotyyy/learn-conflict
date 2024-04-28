@@ -1,4 +1,5 @@
 def main():
+    print("Hello Japan")
     print("Hello World")
 
 
